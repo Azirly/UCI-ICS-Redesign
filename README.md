@@ -2,8 +2,7 @@
 
 Team Event Horizon
 
-<br>
-<br> *Curent Goal*
+<br> **Curent Goal**
 <br>In conjunction with our client, we will first create a design for the new ICS website and then create a generic shell of the new ICS website through Wordpress.
 
 ### Update Notes
