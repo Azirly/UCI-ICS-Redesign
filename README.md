@@ -1,6 +1,6 @@
 # UCI-ICS-Redesign
 
-Team Event Horizon
+**Team: Event Horizon**
 
 <br> **Curent Goal**
 <br>In conjunction with our client, we will first create a design for the new ICS website and then create a generic shell of the new ICS website through Wordpress.
