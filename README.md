@@ -7,7 +7,7 @@ Team Event Horizon
 
 ### Update Notes
 10/19/17:
-*Uploaded*
+<br>*Uploaded*
 <br>  -Final Draft of Requirements Document #1
 <br>  -Final Draft of Sprint Report #1
 
