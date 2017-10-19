@@ -6,7 +6,12 @@ Team Event Horizon
 <br>In conjunction with our client, we will first create a design for the new ICS website and then create a generic shell of the new ICS website through Wordpress.
 
 ### Update Notes
-10/18/17:
+10/19/17:
+*Uploaded*
+<br>  -Final Draft of Requirements Document #1
+<br>  -Final Draft of Sprint Report #1
+
+<br> 10/18/17:
 <br> *Uploaded*
 <br>  -Rough Draft of Requirements Document #1
 <br>  -Rough Draft of Sprint Report #1
