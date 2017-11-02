@@ -6,6 +6,12 @@
 <br>Team Event Horizon is working with sponsor Matt Miller and the ICS Website Taskforce Committee to redesign the ICS departmental website. Currently the website is not scalable for all types of devices, and it is organized in such a way that the screen is overwhelming and composed of mostly text and nested pages, making it complicated to navigate. Thus, our goal is to create a new design so that the website is updated, responsive, easy to navigate, and easy to maintain.
 
 ### Update Notes
+<br> 11/2/17:
+<br>*Uploaded*
+<br>  -Final Draft of Requirements Document #2
+<br>  -Final Draft of Sprint Report #2
+<br>  -Final Draft of Design Draft #1
+
 <br> 10/30/17:
 <br>*Uploaded*
 <br>  -Rough Draft of Requirements Document #2
