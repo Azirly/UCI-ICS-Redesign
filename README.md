@@ -17,6 +17,13 @@ Based on our meetings and progress thus far, the main deliverables expected from
 
 
 ### Update Notes
+<br> 11/19/17:
+<br>*Uploaded*
+<br>  -Final Design Draft
+<br>  -Mockup Mobile Design
+<br>  -Mockup Document
+<br>  -Final Draft of Sprint Report #3
+
 <br> 11/14/17:
 <br>*Uploaded*
 <br>  -Final Draft of Requirements Document Final
