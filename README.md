@@ -17,6 +17,14 @@ Based on our meetings and progress thus far, the main deliverables expected from
 
 
 ### Update Notes
+<br> 12/5/17:
+<br>*Uploaded*
+<br>  -Design Draft Final #2
+<br>  -Meeting Nov. 28
+<br>  -UML Notation Resources
+<br>  -UML Design #2 Final
+<br>  -Sprint Report #4 (Final) and #5 (Rough)
+
 <br> 11/19/17:
 <br>*Uploaded*
 <br>  -Final Design Draft
