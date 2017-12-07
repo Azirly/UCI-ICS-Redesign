@@ -17,6 +17,11 @@ Based on our meetings and progress thus far, the main deliverables expected from
 
 
 ### Update Notes
+<br> 12/6/17:
+<br>*Uploaded*
+<br>  -child.css
+<br>  -style.css
+
 <br> 12/5/17:
 <br>*Uploaded*
 <br>  -Design Draft Final #2
